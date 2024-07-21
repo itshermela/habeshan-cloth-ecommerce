@@ -1,6 +1,6 @@
 # Habeshan Cloth Ecommerce
 
-![image](https://github.com/itshermela/shop-habesha/assets/57627375/5950165e-341b-4010-bafb-7c05939ca102)
+![habesha clothe](https://github.com/user-attachments/assets/e50d7982-fe2c-44cb-a0f2-cf4e47053e4a)
 
 # About
 
