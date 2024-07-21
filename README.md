@@ -12,16 +12,13 @@ GitHub- @itshermela
 Habesha clothing e-commerce web site built using Next.JS, Xata, Cloudinary, CSS modules, Redux Toolkit and Redux Persist for state management. It includes products screen, cart, and checkout.
 
 # Preview
-
-![image](https://github.com/itshermela/shop-habesha/assets/57627375/77046529-ba90-400c-8e55-c4ba78af50dc)
-![image](https://github.com/itshermela/shop-habesha/assets/57627375/8df6f6f7-105e-4554-bb63-66acdd214162)
-![image](https://github.com/itshermela/shop-habesha/assets/57627375/69d5e3bf-b697-4385-9c28-4cd53e8341ba)
-![image](https://github.com/itshermela/shop-habesha/assets/57627375/b1553219-0119-4513-9936-a647f4433afe)
-![image](https://github.com/itshermela/shop-habesha/assets/57627375/261692e6-be31-4bfb-8f72-e14e9bcc33e1)
-![image](https://github.com/itshermela/shop-habesha/assets/57627375/d237a669-9731-49f6-9adc-260320847aa4)
-![image](https://github.com/itshermela/shop-habesha/assets/57627375/a69b47db-f327-416b-8985-7d0ade5e3507)
-![image](https://github.com/itshermela/shop-habesha/assets/57627375/1aa6ce05-2e5c-4479-a6b9-ad13c6835ba3)
-![image](https://github.com/itshermela/shop-habesha/assets/57627375/7d012f1a-e946-43f3-8d9d-ec608920b9cc)
+![IMAGE TWO](https://github.com/user-attachments/assets/ce48f909-d39e-48c2-90d9-ef435e763f5c)
+![IMAGE THREEW](https://github.com/user-attachments/assets/5f4ac629-f075-481a-88bd-4f479a980843)
+![IMAGE THREE](https://github.com/user-attachments/assets/ae7667b9-a3b2-4986-b277-53338fb79019)
+![IMAGE FOUR](https://github.com/user-attachments/assets/188e340a-4717-401e-b8fc-cd445a8b9288)
+![IMAGE FIVE](https://github.com/user-attachments/assets/9408631e-8b64-4865-a0c2-a9b2ee335950)
+![IMAGE SIX](https://github.com/user-attachments/assets/0b9b0961-4590-4880-96cd-1f2af64da096)
+![IMAGE SEVEN](https://github.com/user-attachments/assets/225a43f3-c01f-4f01-9c38-653f1f635cb2)
 
 # Set Up Project
 
