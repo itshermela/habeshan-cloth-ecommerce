@@ -29,7 +29,7 @@ Before you start with the tutorial make sure you have:
 
 # Install Project
 Clone the repo:
-git clone https://github.com/itshermela/shop-habesha.git
+git clone https://github.com/itshermela/habeshan-cloth-ecommerce.git
 Install dependecies:
 npm
 Start the server:
